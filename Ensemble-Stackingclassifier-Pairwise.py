@@ -1,4 +1,4 @@
-# Script to perform ensemble stacking classification analysis to generate the evaluation metrics of activity type prediction
+# Script to perform ensemble stacking classification analysis to generate the evaluation metrics of Synergism of Mixtures of Compoundsprediction
 
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
